@@ -21,4 +21,4 @@ stuff for island
 |![](https://imgur.com/oZguyvZ.png)<br>Lighthouse|![](https://imgur.com/sRrvl9w.png)<br>Fire pit|![](https://imgur.com/1MaNbmK.png)<br>Tall garden rock|![](https://imgur.com/hrjslI0.png)<br>🎨 Fish-drying rack|![](https://imgur.com/frnFN9s.png)<br>🎨 Deer stare|
 |![](https://imgur.com/AN9y1Fw.png)<br>Bamboo basket|![](https://imgur.com/ITGLayP.png)<br>Bamboo stopblock|![](https://imgur.com/QK7sqH9.png)<br>Bamboo stool|![](https://imgur.com/8UXzeAc.png)<br>Bamboo partition|![](https://imgur.com/gQdYazV.png)<br>Termite mound|
 |![](https://imgur.com/NA2zUJV.png)<br>Pagoda|![](https://imgur.com/aENYwjb.png)<br>Flying saucer|![](https://imgur.com/bwA7J8k.png)<br>Asteroid|![](https://imgur.com/hWs51kv.png)<br>Throwback mitt chair|![](https://imgur.com/hZN291R.png)<br>Throwback hat table|
-|![](https://imgur.com/zrVuAQi.png)<br>Throwback rocket|
+|![](https://imgur.com/zrVuAQi.png)<br>Throwback rocket|![](https://imgur.com/xQ15EL8.png)<br>Anchor statue|
