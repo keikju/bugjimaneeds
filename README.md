@@ -35,4 +35,4 @@ categorized
 
 ---
 
-[🦝🎫me nookmiles stuff](https://github.com/keikju/bugjimaneeds/blob/master/poo/nook.md)
+[🦝🎫 me nookmiles stuff](https://github.com/keikju/bugjimaneeds/blob/master/poo/nook.md)
