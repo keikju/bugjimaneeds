@@ -10,11 +10,12 @@ Stuff I want for my island. Please help 🙇‍♂️
 
 ```
 divided by room
+click emoji for link!
 ```
 |   |🚽|   |
 |---|---|---|
 |🥊|🥟|🐊|
-|🍄|   |💉|
+|[🍄](https://github.com/keikju/bugjimaneeds/blob/master/poo/kinoko.md)|   |💉|
 
 ### 🧺 Closet
 ```
