@@ -32,3 +32,7 @@ categorized
 - `🧦` Socks
 - `👞` Shoe
 - `🎒` Bag
+
+---
+
+[me nookmiles stuff](https://github.com/keikju/bugjimaneeds/blob/master/poo/nook.md)
