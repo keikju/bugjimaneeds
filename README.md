@@ -26,8 +26,9 @@ categorized
 
 - 🧢 Hat
 - ⛑ Helmet
-- 👓 Accesory 
-- 👔 Shirt
+- 👓 Accessory 
+- 👔 One Piece
+- 👕 Shirt
 - 👖 Pants
 - 🧦 Socks
 - 👞 Shoe
